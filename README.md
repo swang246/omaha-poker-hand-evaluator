@@ -79,9 +79,11 @@ Each player has four private cards and access to five community cards. The progr
 
 This produces:
 
-\[
-\binom{4}{2}\times\binom{5}{3}=6\times10=60
-\]
+$$
+\binom{4}{2} \times \binom{5}{3}
+= 6 \times 10
+= 60
+$$
 
 possible five-card hands per player.
 
